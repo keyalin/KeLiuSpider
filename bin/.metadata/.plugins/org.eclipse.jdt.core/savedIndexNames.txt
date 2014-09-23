@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+F:\Program Files\java\keyalin\.metadata\test_keyalin\.metadata\.plugins\org.eclipse.jdt.core
+2439255246.index
+873084176.index
+206150901.index
+443039774.index
+1603550986.index
+1164756379.index
+2034994110.index
+3808852491.index
+1484802915.index
+2349266116.index
+4275270438.index

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="pc04/|inlineClass/|firstpackage/|exception/|strings/|mainprogram/|container/|net/mindview/atunit/|net/mindview/simple/|typeInfo/|Generics/|Arrays/|DeepContainers/|io/|enumerate/|thread/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="F:/Program Files/java/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/lib/mainprogram.jar"/>
+	<classpathentry kind="lib" path="F:/Program Files/java/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/lib/firstpackage.jar"/>
+	<classpathentry kind="lib" path="F:/Program Files/java/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/lib/xom.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
